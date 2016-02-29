@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p2historiarumqui08polyuoft_0007.png"; bbox 0 0 1664 3138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 360 829 1125 895">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 360 829 1125 895">
+     <span class='ocr_line' id='line_1_1' title="bbox 360 829 1125 895; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 360 829 1125 895; x_wconf 83' lang='lat' dir='ltr'>POL-YBII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 44 1012 1467 1128">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 44 1012 1467 1150">
+     <span class='ocr_line' id='line_1_2' title="bbox 44 1012 1467 1128; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 44 1012 1467 1128; x_wconf 84' lang='lat' dir='ltr'>HISTORIARVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 219 1308 1290 1363">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 219 1308 1290 1363">
+     <span class='ocr_line' id='line_1_3' title="bbox 219 1308 1290 1363; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 219 1308 428 1362; x_wconf 79' lang='lat' dir='ltr'>TOMI</span> <span class='ocrx_word' id='word_1_4' title='bbox 456 1310 606 1360; x_wconf 88' lang='lat' dir='ltr'><strong>VIII.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 643 1309 820 1361; x_wconf 79' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_6' title='bbox 853 1311 1290 1363; x_wconf 82' lang='lat' dir='ltr'>POSTERIOR.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 141 1735 1380 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 141 1735 1380 1814">
+     <span class='ocr_line' id='line_1_4' title="bbox 141 1735 1380 1814; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 141 1735 626 1812; x_wconf 87' lang='lat' dir='ltr'>LEXICON</span> <span class='ocrx_word' id='word_1_8' title='bbox 668 1737 1380 1814; x_wconf 85' lang='lat' dir='ltr'><strong>POLYBIANVM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
